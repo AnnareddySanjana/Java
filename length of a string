@@ -1,0 +1,10 @@
+
+
+public class Sanju{
+    public static void main(String[] args){
+        String name = "SANJANA";
+        System.out.println(name.length());
+        String FullName = "Sanjana Annareddy";
+        System.out.println(FullName.length());
+    }
+}
