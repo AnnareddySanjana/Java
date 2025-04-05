@@ -1,0 +1,21 @@
+import java.util.*;
+import java.util.Scanner;
+
+public class Sanju{
+    public static void main(String[] args){
+        int a = 5667;
+        short b=89;
+        long c = 5376487455645453L;
+        float d = 6473.4F;
+        char e = 's';
+        String u = "sanju";
+        byte s = 7;
+        System.out.println(a);
+        System.out.println(b);
+        System.out.println(c);
+        System.out.println(d);
+        System.out.println(e);
+        System.out.println(u);
+        System.out.println(s);
+    }
+}
