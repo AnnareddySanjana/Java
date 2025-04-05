@@ -1,0 +1,14 @@
+
+public class Sanju{
+    public static void main(String[] args){
+        String name = "Sanjana reddy";
+        System.out.println(name.length());
+        System.out.println(name.charAt(5));
+        System.out.println(name.substring(4,9));
+        System.out.println(name.replace('j','h'));
+        System.out.println("sanju" + "reddy");
+        String me = "that's me ";
+        System.out.println(name+me);
+        
+    }
+}
