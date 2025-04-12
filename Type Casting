@@ -1,0 +1,8 @@
+public class Sanju{
+    public static void main(String args[]){
+        float n= 6.7F;
+        int s = (int)n;
+        System.out.println(s);
+        
+    }
+}
