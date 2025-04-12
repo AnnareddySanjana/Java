@@ -1,0 +1,6 @@
+public class Sanju{
+    public static void main(String args[]){
+        int aaar[][]={{3,4,2},{6,2,3}};
+        System.out.println(aaar[1][2]);
+    }
+}
